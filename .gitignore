@@ -1,0 +1,5 @@
+# Excluding Word documents
+*.docx
+
+# Regressor Tree Graph
+/RegressorTreeGraph/*
