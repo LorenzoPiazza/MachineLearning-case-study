@@ -1,5 +1,6 @@
 # Excluding Word documents
 *.docx
+*.wbk
 
 # Regressor Tree Graph
 /RegressorTreeGraph/*
