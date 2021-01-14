@@ -2,5 +2,8 @@
 *.docx
 *.wbk
 
+#Excluding temp file
+~$*
+
 # Regressor Tree Graph
 /RegressorTreeGraph/*
